@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canada Immigration Dashboard</title>
+    <link
+      href="{{ url_for('static', filename='styles/index.css') }}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script>
+      var viz, workbook, activeSheet;
+
+      function initViz() {
+        myurl =
+          "https://public.tableau.com/views/ImmigrationVisualizationCanada-Manitoba/Manitoba?:language=en-US&:display_count=n&:origin=viz_share_link";
+        var containerDiv = document.getElementById("vizContainer"),
+          url = myurl,
+          options = {
+            hideTabs: true,
+            hideToolbar: true,
+            height: "1085px",
+            width: "1903px",
+          };
+        viz = new tableau.Viz(containerDiv, url, options);
+      }
+    </script>
+  </head>
+  <body onload="initViz();">
+    <h1>Canada Immigration Dashboard (2015-2023)</h1>
+    <br />
+    <br />
+    <div class="container">
+      <a href="/">
+        <button type="submit" class="mybutton1">Canada</button>
+      </a>
+      <a href="country">
+        <button type="submit" class="mybutton15">Top Immigrant Country</button>
+      </a>
+      <a href="alberta">
+        <button type="submit" class="mybutton2">Alberta</button>
+      </a>
+      <a href="bc">
+        <button type="submit" class="mybutton3">British Columbia</button>
+      </a>
+      <a href="manitoba">
+        <button type="submit" class="mybutton4">Manitoba</button>
+      </a>
+      <a href="newbrunswick">
+        <button type="submit" class="mybutton5">New Brunswick</button>
+      </a>
+      <a href="nf">
+        <button type="submit" class="mybutton6">
+          Newfoundland and Labrador
+        </button>
+      </a>
+      <a href="nwt">
+        <button type="submit" class="mybutton7">Northwest Territories</button>
+      </a>
+      <a href="ns">
+        <button type="submit" class="mybutton8">Nova Scotia</button>
+      </a>
+      <a href="nunavut">
+        <button type="submit" class="mybutton9">Nunavut</button>
+      </a>
+      <a href="ontario">
+        <button type="submit" class="mybutton10">Ontario</button>
+      </a>
+      <a href="pei">
+        <button type="submit" class="mybutton11">Prince Edward Island</button>
+      </a>
+      <a href="quebec">
+        <button type="submit" class="mybutton12">Quebec</button>
+      </a>
+      <a href="saskatchewan">
+        <button type="submit" class="mybutton13">Saskatchewan</button>
+      </a>
+      <a href="yukon">
+        <button type="submit" class="mybutton14">Yukon</button>
+      </a>
+
+      <br />
+      <br />
+      <br />
+      <br />
+    </div>
+    <div class="visualization" id="vizContainer"></div>
+  </body>
+</html>

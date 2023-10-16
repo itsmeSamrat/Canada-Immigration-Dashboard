@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: url("website background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: white;
+  opacity: 80%;
+  color: black;
+  padding: 20px 40px;
+  width: 45%;
+  border-radius: 10px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  opacity: 80%;
+}
+
+.mybutton1,
+.mybutton2,
+.mybutton3,
+.mybutton4,
+.mybutton5,
+.mybutton6,
+.mybutton7,
+.mybutton8,
+.mybutton9,
+.mybutton10,
+.mybutton11,
+.mybutton12,
+.mybutton13,
+.mybutton14,
+.mybutton15 {
+  border-radius: 10px;
+  padding: 20px 40px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: white;
+  color: black;
+  transition-duration: 0.4s;
+  margin-top: 10px;
+  display: inline-flex;
+}
+
+.mybutton1:hover,
+.mybutton2:hover,
+.mybutton3:hover,
+.mybutton4:hover,
+.mybutton5:hover,
+.mybutton6:hover,
+.mybutton7:hover,
+.mybutton8:hover,
+.mybutton9:hover,
+.mybutton10:hover,
+.mybutton11:hover,
+.mybutton12:hover,
+.mybutton13:hover,
+.mybutton14:hover,
+.mybutton15:hover {
+  background-color: #e4224f;
+  color: white;
+}
+
+.visualization {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 1200px;
+}
