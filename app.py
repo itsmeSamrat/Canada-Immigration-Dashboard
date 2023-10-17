@@ -3,11 +3,6 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-
-def bar_race():
-    df = bcr.load_dataset("Top 30 Country.csv")
-
-
 @app.route("/")
 def index():
     return render_template("index.html")
