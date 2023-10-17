@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
-        <img src="https://github.com/itsmeSamrat/Face-Recognition-System-for-Student-Attendance/blob/main/misc/app.png?raw=true" 
+        <img src="https://github.com/itsmeSamrat/Canada-Immigration-Dashboard/blob/main/resources/dashboard.png" 
         alt="Logo" width="500" height="350">
     </a>
 </div>
@@ -9,7 +9,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Canada's+Immigration+Journey+;Insights+from+2015+to+2023">
 </div>
-
 <h2 align="center"> Canada Immigration Dashboard using Tableau  </h2>
 
 ## Description
@@ -49,7 +48,7 @@ Thank you. ✌✌
 
 ## License
 
-This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Face-Recognition-System-for-Student-Attendance/blob/main/license.txt) file for more details.
+This project is under MIT License - see the [License.txt](https://github.com/itsmeSamrat/Canada-Immigration-Dashboard/blob/main/license.txt) file for more details.
 
 ## Feedback
 
