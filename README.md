@@ -2,7 +2,7 @@
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://github.com/itsmeSamrat/Canada-Immigration-Dashboard/blob/main/resources/dashboard.png" 
-        alt="Logo" width="500" height="350">
+        alt="Logo" width="700" height="400">
     </a>
 </div>
 
@@ -19,7 +19,7 @@ In search of some real-world data that gets updated regularly, I stumbled upon t
 
 Getting into this, I had several questions after a brief observation of the data and initial EDA which I have discussed in my [medium article](https://medium.com/@itsmeSamrat/canada-immigration-dashboard-b2df782c1501). With the help of Tableau Public Serve, I was able to host my visualizations, and using Flask as the backend, I was able to get the dashboard and create a web application dashboard for everybody to use.
 
-Check out the [dashboard](http://itmesamrat.pythonanywhere.com/)
+Check out the [dashboard.](http://itmesamrat.pythonanywhere.com/)
 
 [Getting Started](#getting-started)
 
@@ -37,14 +37,18 @@ Check out the [dashboard](http://itmesamrat.pythonanywhere.com/)
     pip install bar-chart-race==0.1.0
 ```
 
--
-- Lastly, show your support by giving the repository a star! 🙂😁
+- Run the app.py file.
+- Lastly, if you like this project, please, show your support by giving the repository a star! 🙂😁
 
 Thank you. ✌✌
 
 ## Acknowledgement
 
-- [Create Login Page With HTML And Flask](https://www.youtube.com/watch?v=R-hkzqjRMwM&t=244s)
+- [Dataset](https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda)
+- [Create Stunning Sales Dashboard in Tableau from Start to End:Website like Design using Canva](https://www.youtube.com/watch?v=CYccsZmMwko)
+- [TABLEAU BUTTERFLY CHART TUTORIAL](https://www.youtube.com/watch?v=M74p3N3lnbI&t=99s)
+- [How to Swap Worksheets in a Tableau Dashboard (v 2022.2+)](https://www.youtube.com/watch?v=fExopuDJz7g&t=352s)
+- [Tableau Public WebServer](https://public.tableau.com/app/discover)
 
 ## License
 
