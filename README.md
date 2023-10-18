@@ -50,6 +50,7 @@ Thank you. ✌✌
 - [Create Stunning Sales Dashboard in Tableau from Start to End:Website like Design using Canva](https://www.youtube.com/watch?v=CYccsZmMwko)
 - [TABLEAU BUTTERFLY CHART TUTORIAL](https://www.youtube.com/watch?v=M74p3N3lnbI&t=99s)
 - [How to Swap Worksheets in a Tableau Dashboard (v 2022.2+)](https://www.youtube.com/watch?v=fExopuDJz7g&t=352s)
+- [How To Create A Bar Race Animation Using Excel And Python | Tutorial [EASY] 💻](https://www.youtube.com/watch?v=5fgje_bPNsQ)
 - [Tableau Public WebServer](https://public.tableau.com/app/discover)
 
 ## License
