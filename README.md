@@ -17,7 +17,9 @@ Hello, everyone.
 
 In search of some real-world data that gets updated regularly, I stumbled upon the IRCC Canadian Immigration Data. As an international student in Canada and a data nerd myself, I found the data to be intriguing to explore and find hidden insights. Also, this could be useful for many individuals researching Canada Immigration Programs and Provinces.
 
-Getting into this, I had several questions after a brief observation of the data and initial EDA which I have discussed in my [medium article](https://medium.com/@itsmeSamrat/canada-immigration-dashboard-b2df782c1501). With the help of Tableau Public Serve, I was able to host my visualizations, and using Flask as the backend, I was able to get the dashboard and create a web application dashboard for everybody to use.
+Getting into this, I had several questions after a brief observation of the data and initial EDA which I have discussed in my [medium article](https://medium.com/@itsmeSamrat/canada-immigration-dashboard-b2df782c1501). With the help of Tableau Public Serve, I was able to host my visualizations, using Flask as the backend and HTML/CSS/JS as the frontend, I was able to get the dashboard and create a web application dashboard for everybody to use. I will go into more detail in the subsequent sections.
+
+Lastly, the dashboard is of a fixed size of 1920*1080 which is the standard resolution for a monitor. So, for this reason, the dashboard is not responsive and will not work smoothly on smartphones as it does on Laptops, Monitors, or Tablets
 
 Check out the [dashboard.](http://itmesamrat.pythonanywhere.com/)
 
