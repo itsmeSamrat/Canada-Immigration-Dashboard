@@ -1,7 +1,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
-        <img src="https://github.com/itsmeSamrat/Canada-Immigration-Dashboard/blob/main/resources/dashboard.png" 
+        <img src="https://github.com/itsmeSamrat/Canada-Immigration-Dashboard/blob/main/resources/design/dashboard.png" 
         alt="Logo" width="700" height="400">
     </a>
 </div>
