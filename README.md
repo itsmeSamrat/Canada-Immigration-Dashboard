@@ -23,6 +23,8 @@ Lastly, the dashboard is of a fixed size of 1920*1080 which is the standard reso
 
 Check out the [dashboard.](http://itmesamrat.pythonanywhere.com/)
 
+Check out the [video.](https://www.youtube.com/watch?v=y4a4M0C46jo)
+
 [Getting Started](#getting-started)
 
 ## Getting Started
