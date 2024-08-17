@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Canada's+Immigration+Journey+;Insights+from+2015+to+2023">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=200&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Canada's+Immigration+Journey+;Insights+from+2015+to+2024+June">
 </div>
 <h2 align="center"> Canada Immigration Dashboard using Tableau  </h2>
 
